@@ -1,0 +1,10 @@
+def introduce():
+	print("姓名:崔利艳")
+	print("芳龄:19")
+	print("性别：女")
+	print("住址：大河北")
+	print("身高：160")
+	print("体重：47")
+	print("民族:汉")
+	print("学历:清华and北大研究生")
+introduce()

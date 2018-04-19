@@ -1,0 +1,4 @@
+neirong=['人生苦短，我用python']
+print(neirong.count('p'))
+print(nrirong.count('i'))
+

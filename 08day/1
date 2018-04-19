@@ -1,0 +1,12 @@
+i = 0
+my_sum = 0
+while count <100
+		number = int(input("请输入数字")
+		if number%2 == 0:
+		print("%d是偶数"%number)
+	my_sum+=i
+	print(i)
+	print(my_sum)
+	i+=1
+
+
